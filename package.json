@@ -1,0 +1,25 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WdBly/leetcode.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "jim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WdBly/leetcode/issues"
+  },
+  "homepage": "https://github.com/WdBly/leetcode#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
